@@ -9,6 +9,7 @@ _An open-source repository of all the best places to eat in Charlotte._
 #### Lunch
 
 #### Dinner
+- Merts
 
 #### Drinks
 
