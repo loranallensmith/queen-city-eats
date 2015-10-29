@@ -1,6 +1,6 @@
 # Queen City Eats
 
-_An open-source repository of all the best places to eat in Charlotte._
+_An open-source repository of all the best places to eat in Charlotte.  Help add to this document by [contributing](https://github.com/loranallensmith/queen-city-eats/blob/master/CONTRIBUTING.md) to this repository._
 
 ### Places to Eat
 
